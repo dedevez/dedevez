@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I am a **Full Stack Developer** with a strong focu
 ## 📫 How to Reach Me
 - Portfolio: [DomDevOps.com](https://domdevops.com)
 - Freelance Business: [DomDevSolutions.com](https://domdevsolutions.com) (Coming Soon)
-- Email: [dominiquel@domdevsolutions.com](mailto:dominiquel@domdevsolutions.com)
+- Email: [dominique@domdevsolutions.com](mailto:dominiquel@domdevsolutions.com)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/dominique-d-998647258/)
 
 Thank you for visiting my profile! I’m always open to collaborating on exciting projects or discussing new opportunities. Feel free to connect with me!
