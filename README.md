@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I am a **Full Stack Developer** with a strong focu
 ## 🚀 Current Projects
 - Building **DomDevSolutions**, my freelance business offering custom software development solutions.
 - Developing SaaS tools and CI/CD pipelines for web applications.
-- Exploring 3D web development with ThreeJS for my portfolio.
+- Exploring AI/ML integration for business applications.
 
 ## 🌱 What I’m Learning
 - Advanced container orchestration with Kubernetes.
