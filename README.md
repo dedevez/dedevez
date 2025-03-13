@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am a **Full Stack Developer** with a strong focu
 - **Other Tools**: DigitalOcean, AWS, IntelliJ
 
 ## 🚀 Current Projects
-- Building **DomDevSolutions**, my freelance business offering custom software development solutions.
+- Building **Devezin Digital**, my freelance business offering custom software development solutions.
 - Developing SaaS tools and CI/CD pipelines for web applications.
 - Exploring AI/ML integration for business applications.
 
@@ -18,8 +18,8 @@ Welcome to my GitHub profile! I am a **Full Stack Developer** with a strong focu
 
 ## 📫 How to Reach Me
 - Portfolio: [DomDev.io](https://domdev.io)
-- Freelance Business: [DomDevSolutions.com](https://domdevsolutions.com) (Coming Soon)
-- Email: [dominique@domdevsolutions.com](mailto:dominiquel@domdevsolutions.com)
+- Freelance Business: [DevezinDigital.com](https://devezindigital.com)
+- Email: [dominique@devezindigital.com](mailto:dominiquel@devezindigital.com)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/dominique-d-998647258/)
 
 Thank you for visiting my profile! I’m always open to collaborating on exciting projects or discussing new opportunities. Feel free to connect with me!
